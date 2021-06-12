@@ -10,5 +10,4 @@ const Pattern=()=>{
         <PatternComponent/>
     )
 }
-
 export default Pattern
